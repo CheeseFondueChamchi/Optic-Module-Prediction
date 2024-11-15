@@ -16,9 +16,6 @@ The raw optical power data is the basis of our analysis, showcasing time-series 
 ![DU_RX_full](https://github.com/user-attachments/assets/e49897fb-2345-4477-94df-b71dc25eca38)
 
 
-
-
-
 -Clue for Predictive Modeling
 
 Despite the variability in power signals, certain standardized time-series patterns have been identified, 
