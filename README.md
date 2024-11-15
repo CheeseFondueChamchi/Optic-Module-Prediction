@@ -30,9 +30,11 @@ These patterns enable the classification and subsequent lifecycle estimation.
 
 Time-Series Pattern Classification:
 Develop a classification model to identify and categorize the distinct patterns observed in optical power signals.
+
 Model Optimization:
 Explore and fine-tune hyperparameters for ensemble models and other advanced machine learning techniques to enhance prediction accuracy.
 Lifecycle Prediction:
+
 Predict the end-of-life (EOL) for each module. 
 If no imminent failure is detected, the model concludes that the module is expected to operate continuously under current conditions.
 Example Prediction Result
