@@ -26,16 +26,16 @@ which serve as clues for lifecycle prediction.
 These patterns enable the classification and subsequent lifecycle estimation.
 ![newplot](https://github.com/user-attachments/assets/9b85e282-3eb0-4264-b2db-c14219cf1e50)
 
-1. Solution Approach
+- Solution Approach
 
 Time-Series Pattern Classification:
 Develop a classification model to identify and categorize the distinct patterns observed in optical power signals.
 
-2. Model Optimization:
+1. Model Optimization:
 Explore and fine-tune hyperparameters for ensemble models and other advanced machine learning techniques to enhance prediction accuracy.
 Lifecycle Prediction:
 
-3. Predict the end-of-life (EOL) for each module. 
+2. Predict the end-of-life (EOL) for each module. 
 If no imminent failure is detected, the model concludes that the module is expected to operate continuously under current conditions.
 Example Prediction Result
 
